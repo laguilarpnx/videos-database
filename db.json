@@ -1,37 +1,55 @@
 {
-	"/title/get-most-popular-movies": [
-		"tt5433138",
-		"tt8110232",
-		"tt12801262",
-		"tt6566576",
-		"tt3758814",
-		"tt8332922",
-		"tt11525644",
-		"tt3480822",
-		"tt1321510",
-		"tt3228774",
-		"tt8231668",
-		"tt5109280",
-		"tt4733624",
-		"tt10228134",
-		"tt6334354",
-		"tt7888964",
-		"tt8385148",
-		"tt6932874",
-		"tt10327252",
-		"tt7069210",
-		"tt9376612",
-		"tt6733874",
-		"tt11083552",
-		"tt6644200",
-		"tt6654210",
-		"tt5439812",
-		"tt10096842",
-		"tt11804152",
-		"tt10016180",
-		"tt6467266"
-	],
-  "/title/get-details":[
-    
+  "/title/get-most-popular-movies": [
+    "tt5433138",
+    "tt8110232",
+    "tt12801262",
+    "tt6566576",
+    "tt3758814",
+    "tt8332922",
+    "tt11525644",
+    "tt3480822",
+    "tt1321510",
+    "tt3228774",
+    "tt8231668",
+    "tt5109280",
+    "tt4733624",
+    "tt10228134",
+    "tt6334354",
+    "tt7888964",
+    "tt8385148",
+    "tt6932874"
+  ],
+  "/title/get-details": [
+    {
+      "@type": "imdb.api.title.title",
+      "id": "/title/tt5433138/",
+      "runningTimeInMinutes": 143,
+      "title": "F9: The Fast Saga",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "/title/tt8110232/",
+      "title": "The Many Saints of Newark",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "/title/tt5433138/",
+      "runningTimeInMinutes": 143,
+      "title": "F9: The Fast Saga",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "/title/tt5433138/",
+      "runningTimeInMinutes": 143,
+      "title": "F9: The Fast Saga",
+      "titleType": "movie",
+      "year": 2021
+    }
   ]
 }
