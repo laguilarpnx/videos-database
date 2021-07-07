@@ -3,7 +3,7 @@
 "get-details": [
     {
       "@type": "imdb.api.title.title",
-      "id": "/title/tt5433138/",
+      "id": "tt5433138",
       "runningTimeInMinutes": 143,
       "title": "F9: The Fast Saga",
       "titleType": "movie",
@@ -11,14 +11,14 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "/title/tt8110232/",
+      "id": "tt8110232",
       "title": "The Many Saints of Newark",
       "titleType": "movie",
       "year": 2021
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "/title/tt5433138/",
+      "id": "tt5433138",
       "runningTimeInMinutes": 143,
       "title": "F9: The Fast Saga",
       "titleType": "movie",
@@ -26,7 +26,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "/title/tt5433138/",
+      "id": "tt5433138",
       "runningTimeInMinutes": 143,
       "title": "F9: The Fast Saga",
       "titleType": "movie",
