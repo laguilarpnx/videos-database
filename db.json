@@ -1,5 +1,20 @@
 {  
-"get-tconst-movies": ["tt5433138","tt8110232","tt12801262","tt6566576","tt3758814","tt8332922","tt11525644","tt3480822","tt1321510","tt3228774","tt8231668","tt5109280","tt4733624","tt10228134"],
+"get-tconst-movies": [
+    {"tconst": "tt5433138"},
+    {"tconst":"tt8110232"},
+    {"tconst": "tt12801262"},
+    {"tconst": "tt6566576"},
+    {"tconst": "tt3758814"},
+    {"tconst": "tt8332922"},
+    {"tconst": "tt11525644"},
+    {"tconst": "tt3480822"},
+    {"tconst": "tt1321510"},
+    {"tconst": "tt3228774"},
+    {"tconst": "tt8231668"},
+    {"tconst": "tt5109280"},
+    {"tconst": "tt4733624"},
+    {"tconst": "tt10228134"}
+],
 "get-details": [
     {
       "@type": "imdb.api.title.title",
