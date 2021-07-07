@@ -1,5 +1,5 @@
 {  
-"get-tconst-movies": ["tt5433138","tt8110232","tt12801262","tt6566576","tt3758814","tt8332922","tt11525644","tt3480822","tt1321510","tt3228774","tt8231668","tt5109280","tt4733624","tt10228134", "tt6334354", "tt7888964","tt8385148","tt6932874"],
+"get-tconst-movies": ["tt5433138","tt8110232","tt12801262","tt6566576","tt3758814","tt8332922","tt11525644","tt3480822","tt1321510","tt3228774","tt8231668","tt5109280","tt4733624","tt10228134"],
 "get-details": [
     {
       "@type": "imdb.api.title.title",
@@ -18,17 +18,97 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt5433138",
-      "runningTimeInMinutes": 143,
-      "title": "F9: The Fast Saga",
+      "id": "tt12801262",
+      "runningTimeInMinutes": 95,
+      "title": "Luca",
       "titleType": "movie",
       "year": 2021
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt5433138",
+      "id": "tt6566576",
+      "runningTimeInMinutes": 107,
+      "title": "Fear Street Part 1: 1994",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "tt3758814",
+      "runningTimeInMinutes": 109,
+      "title": "The Ice Road",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "tt8332922",
+      "runningTimeInMinutes": 107,
+      "title": "A Quiet Place Part II",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "tt11525644",
+      "runningTimeInMinutes": 115,
+      "title": "No Sudden Move",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "tt3480822",
+      "runningTimeInMinutes": 133,
+      "title": "Black Widow",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "tt1321510",
       "runningTimeInMinutes": 143,
-      "title": "F9: The Fast Saga",
+      "title": "In the Heights",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "tt3228774",
+      "runningTimeInMinutes": 134,
+      "title": "Cruella",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "tt8231668",
+      "runningTimeInMinutes": 92,
+      "title": "Good on Paper",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "tt5109280",
+      "runningTimeInMinutes": 107,
+      "title": "Raya and the Last Dragon",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "tt4733624",
+      "runningTimeInMinutes": 109,
+      "title": "Fatherhood",
+      "titleType": "movie",
+      "year": 2021
+    },
+    {
+      "@type": "imdb.api.title.title",
+      "id": "tt10228134",
+      "runningTimeInMinutes": 91,
+      "title": "Jolt",
       "titleType": "movie",
       "year": 2021
     }
