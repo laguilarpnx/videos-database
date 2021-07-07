@@ -18,7 +18,7 @@
 "get-details": [
     {
       "@type": "imdb.api.title.title",
-      "id": "tt5433138",
+      "tconst": "tt5433138",
       "runningTimeInMinutes": 143,
       "title": "F9: The Fast Saga",
       "titleType": "movie",
@@ -26,14 +26,14 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt8110232",
+      "tconst": "tt8110232",
       "title": "The Many Saints of Newark",
       "titleType": "movie",
       "year": 2021
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt12801262",
+      "tconst": "tt12801262",
       "runningTimeInMinutes": 95,
       "title": "Luca",
       "titleType": "movie",
@@ -41,7 +41,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt6566576",
+      "tconst": "tt6566576",
       "runningTimeInMinutes": 107,
       "title": "Fear Street Part 1: 1994",
       "titleType": "movie",
@@ -49,7 +49,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt3758814",
+      "tconst": "tt3758814",
       "runningTimeInMinutes": 109,
       "title": "The Ice Road",
       "titleType": "movie",
@@ -57,7 +57,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt8332922",
+      "tconst": "tt8332922",
       "runningTimeInMinutes": 107,
       "title": "A Quiet Place Part II",
       "titleType": "movie",
@@ -65,7 +65,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt11525644",
+      "tconst": "tt11525644",
       "runningTimeInMinutes": 115,
       "title": "No Sudden Move",
       "titleType": "movie",
@@ -73,7 +73,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt3480822",
+      "tconst": "tt3480822",
       "runningTimeInMinutes": 133,
       "title": "Black Widow",
       "titleType": "movie",
@@ -81,7 +81,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt1321510",
+      "tconst": "tt1321510",
       "runningTimeInMinutes": 143,
       "title": "In the Heights",
       "titleType": "movie",
@@ -89,7 +89,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt3228774",
+      "tconst": "tt3228774",
       "runningTimeInMinutes": 134,
       "title": "Cruella",
       "titleType": "movie",
@@ -97,7 +97,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt8231668",
+      "tconst": "tt8231668",
       "runningTimeInMinutes": 92,
       "title": "Good on Paper",
       "titleType": "movie",
@@ -105,7 +105,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt5109280",
+      "tconst": "tt5109280",
       "runningTimeInMinutes": 107,
       "title": "Raya and the Last Dragon",
       "titleType": "movie",
@@ -113,7 +113,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt4733624",
+      "tconst": "tt4733624",
       "runningTimeInMinutes": 109,
       "title": "Fatherhood",
       "titleType": "movie",
@@ -121,7 +121,7 @@
     },
     {
       "@type": "imdb.api.title.title",
-      "id": "tt10228134",
+      "tconst": "tt10228134",
       "runningTimeInMinutes": 91,
       "title": "Jolt",
       "titleType": "movie",
