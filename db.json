@@ -11,6 +11,7 @@
     {
       "@type": "imdb.api.title.title",
       "tconst": "tt8110232",
+      "runningTimeInMinutes": 100,
       "title": "The Many Saints of Newark",
       "titleType": "movie",
       "year": 2021
