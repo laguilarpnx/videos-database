@@ -1,116 +1,21 @@
-{  
-"get-details": [
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt5433138",
-      "runningTimeInMinutes": 143,
-      "title": "F9: The Fast Saga",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt8110232",
-      "runningTimeInMinutes": 100,
-      "title": "The Many Saints of Newark",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt12801262",
-      "runningTimeInMinutes": 95,
-      "title": "Luca",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt6566576",
-      "runningTimeInMinutes": 107,
-      "title": "Fear Street Part 1: 1994",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt3758814",
-      "runningTimeInMinutes": 109,
-      "title": "The Ice Road",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt8332922",
-      "runningTimeInMinutes": 107,
-      "title": "A Quiet Place Part II",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt11525644",
-      "runningTimeInMinutes": 115,
-      "title": "No Sudden Move",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt3480822",
-      "runningTimeInMinutes": 133,
-      "title": "Black Widow",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt1321510",
-      "runningTimeInMinutes": 143,
-      "title": "In the Heights",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt3228774",
-      "runningTimeInMinutes": 134,
-      "title": "Cruella",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt8231668",
-      "runningTimeInMinutes": 92,
-      "title": "Good on Paper",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt5109280",
-      "runningTimeInMinutes": 107,
-      "title": "Raya and the Last Dragon",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt4733624",
-      "runningTimeInMinutes": 109,
-      "title": "Fatherhood",
-      "titleType": "movie",
-      "year": 2021
-    },
-    {
-      "@type": "imdb.api.title.title",
-      "tconst": "tt10228134",
-      "runningTimeInMinutes": 91,
-      "title": "Jolt",
-      "titleType": "movie",
-      "year": 2021
-    }
-  ]
+{
+   "streams":[
+      {
+         "name":"Scrollable Carousel - BMW Mini",
+         "mediaFile":"https://cdn-media.brightline.tv/demo/ces2023/creatives/isso_mini/media/videos/01_hulu_brightline_south_december_video_windowed_bl720.mp4"
+      },
+      {
+         "name":"Scrollable Carousel - BMW Mini",
+         "mediaFile":"https://cdn-media.brightline.tv/demo/ces2023/creatives/isso_mini/media/videos/01_hulu_brightline_south_december_video_windowed_bl720.mp4"
+      },
+      {
+         "name":"Scrollable Carousel - BMW Mini",
+         "mediaFile":"https://cdn-media.brightline.tv/demo/ces2023/creatives/isso_mini/media/videos/01_hulu_brightline_south_december_video_windowed_bl720.mp4"
+      },
+      {
+         "name":"Scrollable Carousel - BMW Mini",
+         "mediaFile":"https://cdn-media.brightline.tv/demo/ces2023/creatives/isso_mini/media/videos/01_hulu_brightline_south_december_video_windowed_bl720.mp4"
+      }
+   ]
 }
+  
